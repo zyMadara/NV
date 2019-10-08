@@ -1,3 +1,3 @@
 # README
 
-Function like osal_nv.c in Z-Stack.
+Provide functions like what in osal_nv.c in Z-Stack.
